@@ -1,0 +1,11 @@
+D:\VS2022\Parfonov_LR6_RE-21mp\Parfonov_LR6_RE-21mp\bin\Debug\Parfonov_LR6_RE-21mp.exe.config
+D:\VS2022\Parfonov_LR6_RE-21mp\Parfonov_LR6_RE-21mp\bin\Debug\Parfonov_LR6_RE-21mp.exe
+D:\VS2022\Parfonov_LR6_RE-21mp\Parfonov_LR6_RE-21mp\bin\Debug\Parfonov_LR6_RE-21mp.pdb
+D:\VS2022\Parfonov_LR6_RE-21mp\Parfonov_LR6_RE-21mp\obj\Debug\Parfonov_LR6_RE-21mp.csproj.AssemblyReference.cache
+D:\VS2022\Parfonov_LR6_RE-21mp\Parfonov_LR6_RE-21mp\obj\Debug\Parfonov_LR6_RE-21mp.csproj.SuggestedBindingRedirects.cache
+D:\VS2022\Parfonov_LR6_RE-21mp\Parfonov_LR6_RE-21mp\obj\Debug\Parfonov_LR6_RE_21mp.Form1.resources
+D:\VS2022\Parfonov_LR6_RE-21mp\Parfonov_LR6_RE-21mp\obj\Debug\Parfonov_LR6_RE_21mp.Properties.Resources.resources
+D:\VS2022\Parfonov_LR6_RE-21mp\Parfonov_LR6_RE-21mp\obj\Debug\Parfonov_LR6_RE-21mp.csproj.GenerateResource.cache
+D:\VS2022\Parfonov_LR6_RE-21mp\Parfonov_LR6_RE-21mp\obj\Debug\Parfonov_LR6_RE-21mp.csproj.CoreCompileInputs.cache
+D:\VS2022\Parfonov_LR6_RE-21mp\Parfonov_LR6_RE-21mp\obj\Debug\Parfonov_LR6_RE-21mp.exe
+D:\VS2022\Parfonov_LR6_RE-21mp\Parfonov_LR6_RE-21mp\obj\Debug\Parfonov_LR6_RE-21mp.pdb
